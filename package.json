@@ -1,0 +1,23 @@
+{
+  "name": "jsencrypt-for-node",
+  "version": "1.0.0",
+  "description": "JSEncrypt for node & browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jnxey/jsencrypt-of-node"
+  },
+  "keywords": [
+    "JSEncrypt",
+    "RSA"
+  ],
+  "author": "apipost-lab001 (https://github.com/jnxey)",
+  "license": "MIT",
+  "bugs": {
+    "url": "git+https://github.com/jnxey/jsencrypt-of-node/issues"
+  },
+  "homepage": "git+https://github.com/jnxey/jsencrypt-of-node#readme"
+}
